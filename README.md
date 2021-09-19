@@ -7,11 +7,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 
 
 ## General Information
@@ -36,6 +31,12 @@
 
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/81974121/133941702-cbb80e96-88ed-4227-9c5b-0a7d061785fc.png)
+![image](https://user-images.githubusercontent.com/81974121/133941707-5294feda-6af1-498d-a57e-8699a3f29b72.png)
+![image](https://user-images.githubusercontent.com/81974121/133941721-d743aab9-ae58-4a36-b6bb-514ce5602c46.png)
+![image](https://user-images.githubusercontent.com/81974121/133941731-5ea92bb1-223f-421a-b458-ee8aacf32a64.png)
+
+
 
 ## Setup
 - clone the project into www folder of wamp
