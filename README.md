@@ -32,14 +32,17 @@
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/81974121/133941702-cbb80e96-88ed-4227-9c5b-0a7d061785fc.png)
+
 ![image](https://user-images.githubusercontent.com/81974121/133941707-5294feda-6af1-498d-a57e-8699a3f29b72.png)
+
 ![image](https://user-images.githubusercontent.com/81974121/133941721-d743aab9-ae58-4a36-b6bb-514ce5602c46.png)
+
 ![image](https://user-images.githubusercontent.com/81974121/133941731-5ea92bb1-223f-421a-b458-ee8aacf32a64.png)
 
 
 
 ## Setup
 - clone the project into www folder of wamp
-- open PHPMyAdmin and impot sql file
+- open PHPMyAdmin and import tasks.sql file
 - serve localhost and click on todo_PHP
 - the app runs at http://localhost/todo_PHP/
